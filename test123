@@ -1,0 +1,2 @@
+git remote add origin https://github.com/annonymous-hosh2/fg.git
+git push -u origin master
